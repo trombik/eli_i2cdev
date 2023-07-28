@@ -1,0 +1,5 @@
+---
+
+version: "0.0.1"
+description: ESP-IDF I2C master thread-safe utilities
+url: https://github.com/trombik/eli_i2cdev
